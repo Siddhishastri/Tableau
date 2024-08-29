@@ -23,13 +23,11 @@ The purpose of this dashboard is to offer a dynamic platform for analyzing HR da
 
 ## Key Features
 
-Dynamic KPI Cards: Visualize critical HR metrics, including the number of active employees, attrition count, attrition rate, and department loyalty. These KPI cards update automatically based on selected filters, providing real-time insights.
-Interactive Filters: A single filter allows users to select an education field and immediately see relevant HR insights. Action filters enhance interactivity, allowing users to click on a specific department (e.g., Sales) to view all associated data dynamically.
-Gender-Based Attrition Analysis: Analyze attrition by gender to understand patterns in employee turnover and identify any disparities.
-Department-Wise Attrition: A pie chart visualizes attrition rates across different departments, offering a clear comparison of how different areas of the organization are retaining talent.
-Job Satisfaction Heatmap: A heatmap (or matrix) provides a visual representation of employee job satisfaction ratings, highlighting areas that may require attention.
-Education Field Attrition Analysis: A simple bar chart breaks down attrition rates by education field, enabling HR to see how education levels impact turnover.
-Age Bin Donut Charts: Multiple donut charts display attrition data segmented by age bins, helping HR understand which age groups are most likely to leave the company.
+--- Workforce Demographics: Visualize the composition of the workforce based on age, gender, department, and job role.
+--- Employee Turnover Analysis: Track turnover rates over time and identify factors contributing to employee attrition.
+--- Performance Metrics: Evaluate employee performance across different departments and job roles using key performance indicators (KPIs).
+--- Diversity & Inclusion: Monitor diversity metrics to ensure a balanced and inclusive workplace environment.
+--- Recruitment Analysis: Assess recruitment efficiency by analyzing the time-to-hire, cost-per-hire, and sourcing channels.
 
 ## Value Proposition
 
