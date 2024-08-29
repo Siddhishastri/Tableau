@@ -23,14 +23,17 @@ The purpose of this dashboard is to offer a dynamic platform for analyzing HR da
 
 ## Key Features
 
---- Workforce Demographics: Visualize the composition of the workforce based on age, gender, department, and job role.
---- Employee Turnover Analysis: Track turnover rates over time and identify factors contributing to employee attrition.
---- Performance Metrics: Evaluate employee performance across different departments and job roles using key performance indicators (KPIs).
---- Diversity & Inclusion: Monitor diversity metrics to ensure a balanced and inclusive workplace environment.
---- Recruitment Analysis: Assess recruitment efficiency by analyzing the time-to-hire, cost-per-hire, and sourcing channels.
+___ Workforce Demographics: Visualize the composition of the workforce based on age, gender, department, and job role.
+___ Employee Turnover Analysis: Track turnover rates over time and identify factors contributing to employee attrition.
+___ Performance Metrics: Evaluate employee performance across different departments and job roles using key performance indicators (KPIs).
+___ Diversity & Inclusion: Monitor diversity metrics to ensure a balanced and inclusive workplace environment.
+___ Recruitment Analysis: Assess recruitment efficiency by analyzing the time-to-hire, cost-per-hire, and sourcing channels.
 
 ## Value Proposition
 
 The HR Analytics Dashboard serves as a powerful tool for the HR department, enabling a thorough analysis of workforce dynamics. By offering a fully interactive experience, it allows users to explore data from various perspectives—whether by department, gender, education field, or age group. The insights derived from this dashboard empower HR teams to craft targeted strategies for improving employee retention, enhancing job satisfaction, and optimizing overall workforce management.
 
 You can view HR Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/siddhi.shastri/viz/HR_Analytics_Dashboard_17248763024300/HRAnalysisDashboard
+
+![HR Analysis Dashboard](https://github.com/user-attachments/assets/ccd7638a-6090-48d7-bfd0-5a47b9857a2a)
+
