@@ -1,6 +1,6 @@
 # PowerBI Projects:
 
-1. [Zomato Global Restaurants Analysis with Power BI](https://github.com/Siddhishastri/Tableau/tree/main/HR_Analytics_Dashboard)
+1. [HR_Analytics_Dashboard](https://github.com/Siddhishastri/Tableau/tree/main/HR_Analytics_Dashboard)
    
 # Contact
 
