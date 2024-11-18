@@ -1,7 +1,7 @@
 # Tableau Projects:
 
 1. [HR_Analytics_Dashboard](https://github.com/Siddhishastri/Tableau/tree/main/HR_Analytics_Dashboard)
-2. [Comparison of Region Based on Sales](https://github.com/Siddhishastri/Tableau/tree/main/HR_Analytics_Dashboard)
+2. [Comparison of Region Based on Sales](https://github.com/Siddhishastri/Tableau/tree/main/Comparison_of_Region_Based_on_Sales)
    
 # Contact
 
