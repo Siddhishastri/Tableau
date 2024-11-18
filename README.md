@@ -1,21 +1,10 @@
-# Tableau Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving these type of Analytics Projects.
+# PowerBI Projects:
 
-1. Comparison of Region based on sales
-2. HR Analytics Dashboard
-
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
-https://public.tableau.com/app/profile/siddhi.shastri/vizzes
-
-# Screenshots
-
-1. Comparison of Region based on sales
+1. [Zomato Global Restaurants Analysis with Power BI](https://github.com/Siddhishastri/Tableau/tree/main/HR_Analytics_Dashboard)
    
-![dashboard](https://github.com/user-attachments/assets/26d9df93-9a8e-4164-a281-095357ccb9ff)
+# Contact
 
-2. HR Analytics Dashboard
+Feel free to reach out if you have any questions or suggestions regarding the project:
 
-![HR Analysis Dashboard](https://github.com/user-attachments/assets/6cc9a796-a71f-4f8a-a6fe-2e74b5e72f4e)
-
-
-
++ LinkedIn: https://www.linkedin.com/in/siddhishastri/
++ GitHub: https://github.com/Siddhishastri
