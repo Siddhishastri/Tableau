@@ -1,6 +1,5 @@
 # Sales and Customer Analysis Dashboards
 ![sales_dashboard](https://github.com/user-attachments/assets/80a85477-fd62-4e26-a17e-a99c1b693733)
-![customer_dashboard](https://github.com/user-attachments/assets/fac271f8-ee31-4102-bbe7-394f5b96438f)
 
 This project involves the creation of two Tableau dashboards to provide insights into sales performance and customer behavior. These dashboards are designed to assist stakeholders, including sales managers, executives, and marketing teams, in making data-driven decisions.
 
@@ -33,6 +32,8 @@ To provide a comprehensive overview of sales metrics and trends, enabling the an
 * Identifies weeks with above or below average performance to emphasize trends.
 
 ## Dashboard 2: Customer Dashboard
+![customer_dashboard](https://github.com/user-attachments/assets/fac271f8-ee31-4102-bbe7-394f5b96438f)
+
 ### Purpose:
 To provide an overview of customer data, trends, and behavior. This dashboard supports marketing teams and management in understanding customer segments and improving satisfaction.
 
